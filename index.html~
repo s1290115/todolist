@@ -1,0 +1,9 @@
+<div id="container">
+  <textarea id="inputText">
+    
+  </textarea>
+  <input type="button" id="showButton" value="show">
+  <input type="button" id ="deleteButton"
+  value="delete">
+  <div id="element"></div>
+</div>
